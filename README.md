@@ -1,4 +1,4 @@
-## Olá eu sou Gabriel-Luna!
+## Olá eu sou Gabriel Luna!
 
 <div align="center">
   <a href="https://github.com/GabrielLuna1">
