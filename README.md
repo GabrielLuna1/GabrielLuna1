@@ -19,7 +19,7 @@
 
   ##
 <div> 
-<img align="center" alt="GL-pic" height="150" style="border-radius:50px;" src="http://www.getmanfred.com/">
+<img align="center" alt="GL-pic" height="150" style="border-radius:50px;" src="[http://www.getmanfred.com/](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxoMzluNnZkNzc0ZHYzYWxqdHhsbG8wZDMxajBhMG1kOWtyYXluYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)">
 </div>
  
   
