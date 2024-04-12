@@ -1,9 +1,6 @@
 ## Olá eu sou Gabriel Luna!
 
-<div align="left">
-  <a href="https://github.com/GabrielLuna1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLuna1&layout=compact&langs_count=7&theme=dark"/>
-</div>
+---
 
 Olá! Meu nome é Gabriel Luna e estou embarcando em uma emocionante jornada para me tornar um desenvolvedor de software. Como um programador júnior, estou imerso em um mundo de aprendizado contínuo e descobertas constantes.
 
@@ -15,6 +12,10 @@ Embora o caminho possa ser desafiador às vezes, estou motivado pela perspectiva
 
 Com determinação, dedicação e uma mentalidade de aprendizagem contínua, estou confiante de que posso alcançar meus objetivos e fazer uma diferença positiva como programador júnior.
 
+<div align="left">
+  <a href="https://github.com/GabrielLuna1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLuna1&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GL-Js" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
