@@ -12,6 +12,8 @@ Embora o caminho possa ser desafiador às vezes, estou motivado pela perspectiva
 
 Com determinação, dedicação e uma mentalidade de aprendizagem contínua, estou confiante de que posso alcançar meus objetivos e fazer uma diferença positiva como programador júnior.
 
+ ---
+
 <div align="left">
   <a href="https://github.com/GabrielLuna1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLuna1&layout=compact&langs_count=7&theme=dark"/>
