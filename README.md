@@ -11,8 +11,9 @@
   <img align="center" alt="GL-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="WordPress" height="50" width="50" src="https://github.com/devicons/devicon/tree/master/icons/wordpress/wordpress-original.svg">
-
 </div>
+
+--
   
  <div> 
    <a href="https://instagram.com/Biel.Luna" target="_blank"><img src="https://img.shields.io/badge/-Instagram-         %23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
