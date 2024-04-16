@@ -31,7 +31,6 @@ Com determinação, dedicação e uma mentalidade de aprendizagem contínua, est
   <img align="center" alt="Next.js" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Node.js" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="MongoDB" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Bulma" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
 </div><br>
 
  <div> 
