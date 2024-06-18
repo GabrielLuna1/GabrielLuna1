@@ -4,14 +4,6 @@
 
 Olá! Meu nome é Gabriel Luna e estou embarcando em uma emocionante jornada para me tornar um desenvolvedor de software. Como um programador júnior, estou imerso em um mundo de aprendizado contínuo e descobertas constantes.
 
-Cada dia é uma oportunidade para expandir meus conhecimentos em tecnologias como HTML, CSS e JavaScript. Estou mergulhando de cabeça em cursos online, tutoriais e projetos pessoais para aprimorar minhas habilidades e construir uma base sólida no desenvolvimento web.
-
-Além das linguagens front-end, estou explorando o vasto mundo das bibliotecas e frameworks, como React e Vue.js, para criar interfaces de usuário dinâmicas e interativas. Também estou me aventurando no desenvolvimento back-end, aprendendo sobre Node.js, Express e MongoDB para construir aplicativos completos e funcionais.
-
-Embora o caminho possa ser desafiador às vezes, estou motivado pela perspectiva de contribuir para projetos significativos e fazer parte de uma comunidade vibrante de desenvolvedores. Estou ansioso para aplicar o que aprendi e enfrentar novos desafios no mercado de trabalho, onde poderei colaborar com equipes talentosas e continuar minha jornada de crescimento profissional.
-
-Com determinação, dedicação e uma mentalidade de aprendizagem contínua, estou confiante de que posso alcançar meus objetivos e fazer uma diferença positiva como programador júnior.
-
  ---
 
 <div align="left">
