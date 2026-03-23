@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Luna! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=false&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Construindo+soluções+escaláveis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=38BDF8&center=false&vCenter=true&repeat=true&width=500&lines=Full+Stack+Developer;Arquitetura+escalável+e+código+limpo;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Transformando+ideias+em+soluções+reais)](https://git.io/typing-svg)
 
 ---
 
