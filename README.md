@@ -1,41 +1,78 @@
 # Olá, eu sou Gabriel Luna! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=false&vCenter=true&width=435&lines=Desenvolvedor+Full-Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Construindo+soluções+escaláveis)](https://git.io/typing-svg)
+
 ---
 
-Olá! Meu nome é Gabriel Luna e estou embarcando em uma emocionante jornada para me tornar um desenvolvedor de software. Como um programador júnior, estou imerso em um mundo de aprendizado contínuo e descobertas constantes.
+### 👨‍💻 Sobre mim
 
- ---
+Sou um desenvolvedor focado em **React, Next.js e Node.js**, com experiência na criação de aplicações web completas – do front-end responsivo ao back-end escalável. Minha jornada é guiada pela busca constante de boas práticas, código limpo e entregas que realmente resolvam problemas.
+
+Atualmente, estou expandindo meus conhecimentos em arquitetura de software, bancos de dados não relacionais e integração de APIs. Tenho como propósito contribuir para projetos que unam tecnologia e impacto real, seja no desenvolvimento de produtos inovadores ou na otimização de processos.
+
+- 💼 **Habilidades principais:** React, Next.js, TypeScript, Node.js, MongoDB, TailwindCSS
+- 🚀 **Objetivo:** atuar como desenvolvedor full-stack em projetos desafiadores e de alto desempenho
+- 📫 **Vamos conversar?** [gabriellunajob@gmail.com](mailto:gabriellunajob@gmail.com)
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
-  <a href="https://github.com/GabrielLuna1">
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="Bulma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="GL-HTML" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GL-CSS" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="GL-Js" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bootstrap" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="TypeScript" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="GitHub" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Sass" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="React" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Node.js" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="MongoDB" height="80" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
- <img align="center" alt="Bulma" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg">
-</div><br>
+---
 
- <div> 
-  <a href = "mailto:gabriellunajob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-luna-14b00821b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
- 
- ---
-  ##
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLuna1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLuna1&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Portfólio Pessoal](https://gabriel-luna-portfolio-v2-qj3o.vercel.app/) | Meu portfólio moderno, apresentando meus projetos e habilidades como desenvolvedor. | Next.js, TypeScript, CSS Modules |
+| [Stock Master Pro](https://stock-master-pro-app.vercel.app/) | Sistema de gestão de estoque e logística, com controle de produtos, entradas e saídas. | React, Node.js, MongoDB, Tailwind |
+| [Primeiro Projeto](https://gabrielluna1.github.io/) | Meu primeiro projeto front-end, demonstrando minha evolução desde o início da jornada. | HTML5, CSS3, JavaScript |
+
+---
+
+### 📫 Onde me encontrar
+
 <div> 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxoMzluNnZkNzc0ZHYzYWxqdHhsbG8wZDMxajBhMG1kOWtyYXluYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
+  <a href="mailto:gabriellunajob@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-luna-14b00821b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
- 
 
-  
+---
+
+### 🎮 Um GIF pra descontrair
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxoMzluNnZkNzc0ZHYzYWxqdHhsbG8wZDMxajBhMG1kOWtyYXluYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</div>
+
+---
+
+⭐ **Obrigado por visitar meu perfil!** Fique à vontade para explorar meus repositórios e entrar em contato. 😄
