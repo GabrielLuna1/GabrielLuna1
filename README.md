@@ -36,12 +36,15 @@ Atualmente, estou aprofundando meus conhecimentos em **arquitetura de software, 
 
 ### 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielLuna1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
-  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielLuna1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLuna1&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" height="180" />
+</p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLuna1&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielLuna1&theme=tokyonight" alt="Resumo do Perfil" height="180" />
+</p>
+
 
 ---
 
