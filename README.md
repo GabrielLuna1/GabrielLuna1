@@ -39,7 +39,7 @@ Atualmente, estou expandindo meus conhecimentos em arquitetura de software, banc
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [**StockMaster Pro**](https://stock-master-pro-app.vercel.app/) | Mini ERP logístico com RBAC, QR Code, auditoria imutável e dashboards financeiros. Next.js + MongoDB Atlas. | Next.js 16, TypeScript, MongoDB, Tailwind |
-| [**WorkHunter**](https://github.com/GabrielLuna1/WorkPlus) | Plataforma inteligente de busca e gestão de vagas tech com match score por IA local (Ollama), pipeline kanban e analytics de mercado. | FastAPI, Next.js, MongoDB, Ollama |
+| [**WorkHunter**](https://github.com/GabrielLuna1/WorkHunter) | Plataforma inteligente de busca e gestão de vagas tech com match score por IA local (Ollama), pipeline kanban e analytics de mercado. | FastAPI, Next.js, MongoDB, Ollama |
 | [**AgendaPro**](https://github.com/GabrielLuna1/agendamento-multi-nicho) | Sistema multi-nicho de agendamentos com CRM, gestão financeira, notificações WhatsApp e Electron desktop. Multi-tenant. | Next.js 16, Prisma, Electron, Redis, WhatsApp |
 
 ---
