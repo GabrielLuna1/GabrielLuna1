@@ -34,14 +34,13 @@ Atualmente, estou expandindo meus conhecimentos em arquitetura de software, banc
 
 ---
 
-
 ### 🚀 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Portfólio Pessoal](https://gabriel-luna-portfolio-v2-qj3o.vercel.app/) | Meu portfólio moderno, apresentando meus projetos e habilidades como desenvolvedor. | Next.js, TypeScript, CSS Modules |
-| [Stock Master Pro](https://stock-master-pro-app.vercel.app/) | Sistema de gestão de estoque e logística, com controle de produtos, entradas e saídas. | React, Node.js, MongoDB, Tailwind |
-| [Primeiro Projeto](https://gabrielluna1.github.io/) | Meu primeiro projeto front-end, demonstrando minha evolução desde o início da jornada. | HTML5, CSS3, JavaScript |
+| [**StockMaster Pro**](https://stock-master-pro-app.vercel.app/) | Mini ERP logístico com RBAC, QR Code, auditoria imutável e dashboards financeiros. Next.js + MongoDB Atlas. | Next.js 16, TypeScript, MongoDB, Tailwind |
+| [**WorkHunter**](https://github.com/GabrielLuna1/WorkPlus) | Plataforma inteligente de busca e gestão de vagas tech com match score por IA local (Ollama), pipeline kanban e analytics de mercado. | FastAPI, Next.js, MongoDB, Ollama |
+| [**AgendaPro**](https://github.com/GabrielLuna1/agendamento-multi-nicho) | Sistema multi-nicho de agendamentos com CRM, gestão financeira, notificações WhatsApp e Electron desktop. Multi-tenant. | Next.js 16, Prisma, Electron, Redis, WhatsApp |
 
 ---
 
